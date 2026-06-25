@@ -79,8 +79,8 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/adpth/jsonlabs.git
-cd jsonlabs
+git clone https://github.com/adpth/JsonLabs.git
+cd JsonLabs
 ```
 
 ### 2. Install dependencies
